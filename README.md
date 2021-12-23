@@ -8,10 +8,10 @@ There after they can sign into the morning lesson sessions or afternoon sessions
 
 ## USER MANUAL
 ### Prerequisites for the system : 
--Microsoft Access 2016 or higher
--Windows Operating System
--2 GB RAM
--8 GB STORAGE
+-Microsoft Access 2016 or higher <br>
+-Windows Operating System <br>
+-2 GB RAM <br>
+-8 GB STORAGE <br>
 
 
 Download the software, either using *git clone* or downloading zip file.
