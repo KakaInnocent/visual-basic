@@ -29,7 +29,7 @@ Install or access the system from where it was downloaded. (preferably in the bi
 
 
 ### We are then presented with a login page <br>
-In this case the default user credentials are <br>
+In this case the default user credentials are (for security purposes it is advised to change it immediately after accessing the system)<br>
 **Username : Milly* <br>
 **Password : 1234* <br>
 ![login page](https://user-images.githubusercontent.com/61348138/147204319-3436861b-2d5e-4839-97af-dd1d1684a0e5.png)
@@ -37,17 +37,23 @@ In this case the default user credentials are <br>
 This gives you the first page of the system user interface so that you can interact with it. <br>
 ![image](https://user-images.githubusercontent.com/61348138/147245182-72c98ac2-4199-423a-a138-60f9d8180d3f.png)
 
-After which, you can log in as an administrator by navigating to the Settings tab, then Administrator settings. <br>
+After which, you can log in as an administrator by navigating to the Settings tab, then Administrator settings. Here you enter the Administrator username and press login, it will then log you in as an admin, only if the said username exits in the database. <br>
 
 ![image](https://user-images.githubusercontent.com/61348138/147245422-014ff73f-8ec7-45fb-9288-258874720e90.png)
 
-With administrator priviledge you can add a student to the system or a staff member through the add user tab. <br>
+With administrator priviledge you can add a student to the system through the add student tab or a staff member through the add user tab. <br>
 ![image](https://user-images.githubusercontent.com/61348138/147245531-b0e9086f-745a-4f6e-b245-c4bac44ca2d0.png)
 
+Adding a new user/staff i.e not a student <br>
+![image]![add new user](https://user-images.githubusercontent.com/61348138/147246207-b9d4e13e-20cc-41ce-acd8-eef8df6edb1a.png)
+
 As an Administrator you can as well add other administrators. <br>
-![image](https://user-images.githubusercontent.com/61348138/147245621-1e3f360f-2418-41e5-969a-49dfb9e94b7d.png)
+
+(https://user-images.githubusercontent.com/61348138/147245621-1e3f360f-2418-41e5-969a-49dfb9e94b7d.png)
 
 
+👏🏽👏🏽👏🏽 Appreciation to group members who made it possible. Here is a brief about us page: <br>
+![image](https://user-images.githubusercontent.com/61348138/147246152-7c04228d-2e24-4ce4-8c00-69eedd14083e.png)
 
 
 
