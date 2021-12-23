@@ -45,11 +45,11 @@ With administrator priviledge you can add a student to the system through the ad
 ![image](https://user-images.githubusercontent.com/61348138/147245531-b0e9086f-745a-4f6e-b245-c4bac44ca2d0.png)
 
 Adding a new user/staff i.e not a student <br>
-![image]![add new user](https://user-images.githubusercontent.com/61348138/147246207-b9d4e13e-20cc-41ce-acd8-eef8df6edb1a.png)
+![add new user](https://user-images.githubusercontent.com/61348138/147246207-b9d4e13e-20cc-41ce-acd8-eef8df6edb1a.png)
+
 
 As an Administrator you can as well add other administrators. <br>
-
-(https://user-images.githubusercontent.com/61348138/147245621-1e3f360f-2418-41e5-969a-49dfb9e94b7d.png)
+![image](https://user-images.githubusercontent.com/61348138/147245621-1e3f360f-2418-41e5-969a-49dfb9e94b7d.png)
 
 
 👏🏽👏🏽👏🏽 Appreciation to group members who made it possible. Here is a brief about us page: <br>
