@@ -16,11 +16,12 @@ There after they can sign into the morning lesson sessions or afternoon sessions
 
 Download the software, either using *git clone* or downloading zip file.
 Install or access the system from where it was downloaded. (preferably in the bin/debug folder)
-### File location
-![file location](https://user-images.githubusercontent.com/61348138/147204165-17cb2355-8656-4f5b-901f-dd787435a8cb.png)
+### File location<br>
+![file location (2)](https://user-images.githubusercontent.com/61348138/147204499-52b70c01-52df-4321-a551-9d9e6aa14adc.png)
+
 
 ### We are then presented with a login page <br>
 In this case the default user credentials are <br>
-**Username : Milly*
-**Password : 1234*
+**Username : Milly* <br>
+**Password : 1234* <br>
 ![login page](https://user-images.githubusercontent.com/61348138/147204319-3436861b-2d5e-4839-97af-dd1d1684a0e5.png)
