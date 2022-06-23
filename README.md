@@ -18,11 +18,11 @@ INNOCENT MAMBO – SCCI/00782/2019 <br>
 ### Prerequisites for the system : 
 -Microsoft Access 2016 or higher <br>
 -Windows Operating System <br>
--2 GB RAM <br>
--8 GB STORAGE <br>
+-2 GB RAM or more <br>
+-8 GB STORAGE or more <br>
 
 
-Download the software, either using *git clone* or downloading zip file.
+Download the software, either using *git clone* or downloading zip file and extract it.
 Install or access the system from where it was downloaded. (preferably in the bin/debug folder)
 ### File location<br>
 ![file location (2)](https://user-images.githubusercontent.com/61348138/147204499-52b70c01-52df-4321-a551-9d9e6aa14adc.png)
