@@ -17,7 +17,7 @@ INNOCENT MAMBO – SCCI/00782/2019 <br>
 ## USER MANUAL
 ### Prerequisites for the system : 
 -Microsoft Access 2016 or higher <br>
--Windows Operating System <br>
+-Windows Operating System preferable 10 or 11<br>
 -2 GB RAM or more <br>
 -8 GB STORAGE or more <br>
 
